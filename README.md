@@ -1,5 +1,5 @@
 # Binjan_test
-Clone the repository from the GitHub link provided: https://github.com/vivekallar90/Binjan_test.git
+Clone the repository from the GitHub link provided: https://github.com/binjan0/CrowdStreet2.git
 Ensure that you have the latest version of Node.js and npm installed on your system
 Open a terminal or command prompt and navigate to the project directory
 Run npm install to install all the necessary dependencies
